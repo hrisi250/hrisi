@@ -1,3 +1,3 @@
 # hrisi
-moeto hranilishte
+moeto hranilishte.
 az sam hrisi i shte pravq yprajnenie
